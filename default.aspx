@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Version 1.2
+        Version 1.0
         <br />
         <asp:Label ID="Label1" runat="server" />
     </div>
