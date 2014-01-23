@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Version Hi Kranthi
+        Hello TechReady
         <br />
         <asp:Label ID="Label1" runat="server" />
     </div>
