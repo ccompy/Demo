@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        Hello TechReady!
+        Hello TechReady!  This is a demo!
         <br />
         <asp:Label ID="Label1" runat="server" />
     </div>
